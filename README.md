@@ -1,2 +1,2 @@
-# Theme-Bryson-core
+# THEME-Bryson-core
 Bryson Firearms Core Template
