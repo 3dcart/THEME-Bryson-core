@@ -154,7 +154,7 @@ ul.extrapages li a{color: #fff;font-size:15px;text-transform: none;font-weight: 
 .footer-social ul{margin:0}
 ul.payment-icons{}
 ul.payment-icons li{font-size:34px;line-height:36px;vertical-align:middle}
-ul.payment-icons li.payment-icons-label,ul.social-icons li.social-icons-label{font-size: 15px;vertical-align:middle;text-transform: none;margin: 0 0 10px 10px;display: block;}
+ul.payment-icons li.payment-icons-label,ul.social-icons li.social-icons-label{font-size: 15px;vertical-align:middle;text-transform: none;margin: 0 0 10px 0;display: block;}
 .social-icons{display:inline-block;width:100%;text-align: left;margin:0;}
 .social-icons li a{color: #fff;background-color:transparent;width:32px;height:32px;line-height:35px;border-radius:100%;display:block;text-align:center;font-size:27px;}
 .social-icons li a:hover{opacity:.6}
